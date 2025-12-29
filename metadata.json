@@ -1,0 +1,5 @@
+{
+  "name": "LINE 貼圖一站式工作坊",
+  "description": "提供 AI 生成圖片去背、批次裁剪、自動符合 LINE 貼圖尺寸規格並打包下載的專業工具。",
+  "requestFramePermissions": []
+}
